@@ -9,13 +9,13 @@
 ## Nome do grupo
 
 ## Integrantes: 
-- <a href="https://www.linkedin.com/in/victorbarq/">Nome do integrante 1</a>
-- <a href="https://www.linkedin.com/in/victorbarq/">Nome do integrante 2</a>
-- <a href="https://www.linkedin.com/in/victorbarq/">Nome do integrante 3</a> 
-- <a href="https://www.linkedin.com/in/victorbarq/">Nome do integrante 4</a> 
-- <a href="https://www.linkedin.com/in/victorbarq/">Nome do integrante 5</a>
-- <a href="https://www.linkedin.com/in/victorbarq/">Nome do integrante 6</a> 
-- <a href="https://www.linkedin.com/in/victorbarq/">Nome do integrante 7</a>
+- <a href="https://www.linkedin.com/in/arthur-nisa-de-paula-932746252/">Arthur Nisa de Paula Souza</a>
+- <a href="">Arthur Tsukamoto Oliveira</a>
+- <a href="">Eduarda Gonzaga de Oliveira</a> 
+- <a href="https://www.linkedin.com/in/guilherme-novaes-lima/">Guilherme Novaes Lima</a> 
+- <a href="">Henrique Rodrigues de Godoy</a>
+- <a href="">Lucas Oliveira de Medeiros Galvão</a> 
+- <a href="">Raab Iane Assunção Silva</a>
 
 ## 📝 Descrição
 
@@ -23,24 +23,12 @@ Curta descrição sobre o que o seu projeto faz (problema a ser resolvido e solu
 
 ## 📁 Estrutura de pastas
 
-```
-Alunos inteli (remover essa observação do readme.md após leitura e execução):
-
-Supondo que você é da Turma 4 e Projeto 5, substitua:
-
-T(NUMERO_DA_TURMA)_G(NUMERO_DO_GRUPO)_V(VERSÃO)_Predictive_Model_Document.pdf
-por
-T4_G5_V01_Predictive_Model_Document.pdf
-
-Faça o mesmo para a documentação em formato DOCX.
-```
-
 |--> documentos<br>
   &emsp;| --> outros <br>
-  &emsp;| T(NUMERO_DA_TURMA)_G(NUMERO_DO_GRUPO)_V(VERSÃO)_Predictive_Model_Document.pdf<br>
-  &emsp;| T(NUMERO_DA_TURMA)_G(NUMERO_DO_GRUPO)_V(VERSÃO)_Predictive_Model_Document.docx<br>
+  &emsp;| T5_G1_(VERSÃO)_Predictive_Model_Document.pdf<br>
+  &emsp;| T5_G1_(VERSÃO)_Predictive_Model_Document.docx<br>
 |--> notebooks<br>
-  &emsp;|--> T(NUMERO_DA_TURMA)_G(NUMERO_DO_GRUPO)_V(VERSÃO)_Predictive_Model_Development.ipynb<br>
+  &emsp;|--> T5_G1_V(VERSÃO)_Predictive_Model_Development.ipynb<br>
 | readme.md<br>
 | license.txt
 
@@ -76,10 +64,24 @@ Para replicação (reexecução dos códigos), o botão `Open in Colab` disponí
 
 ## 📋 Licença/License
 
-<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1"><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1"><p xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/"><a property="dct:title" rel="cc:attributionURL" href="https://github.com/Spidus/Teste_Final_1">MODELO GIT INTELI</a> by <a rel="cc:attributionURL dct:creator" property="cc:attributionName" href="https://www.yggbrasil.com.br/vr">Inteli, Nome do integrante 1, Nome do integrante 2, Nome do integrante 3, Nome do integrante 4, Nome do integrante 5, Nome do integrante 6, Nome do integrante 7</a> is licensed under <a href="http://creativecommons.org/licenses/by/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">Attribution 4.0 International</a>.</p>
+<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1"><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1"><p xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/"><a property="dct:title" rel="cc:attributionURL" href="https://github.com/Spidus/Teste_Final_1">MODELO GIT INTELI</a> by <a rel="cc:attributionURL dct:creator" property="cc:attributionName" href="https://www.inteli.edu.br/">Inteli</a>, <a href="https://www.linkedin.com/in/arthur-nisa-de-paula-932746252/">Arthur Nisa de Paula Souza</a>, <a href="">Arthur Tsukamoto Oliveira</a>, <a href="">Eduarda Gonzaga de Oliveira</a>, <a href="https://www.linkedin.com/in/guilherme-novaes-lima/">Guilherme Novaes Lima</a>, <a href="">Henrique Rodrigues de Godoy</a>, <a href="">Lucas Oliveira de Medeiros Galvão</a>, <a href="">Raab Iane Assunção Silva</a> is licensed under <a href="http://creativecommons.org/licenses/by/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">Attribution 4.0 International</a>.</p>
 
 ## 🎓 Referências
 
 Aqui estão as referências usadas no projeto:
 
 1. <https://creativecommons.org/share-your-work/>
+2. <https://icesp.org.br/nossa-historia/>
+3. <https://icesp.org.br/missao-visao-e-valores/>
+4. <https://icesp.org.br/acreditacoes-e-certificacoes/>
+5. <https://icesp.org.br/nps/>
+6. <https://www.gov.br/inca/pt-br/assuntos/noticias/2022/inca-estima-704-mil-casos-de-cancer-por-ano-no-brasil-ate-2025>
+7. <https://accamargo.org.br/institucional/nossa-historia>
+8. <https://amaralcarvalho.org.br/fundacao/sobre>
+9. <https://www.einstein.br/sobre-einstein>
+10. <https://www.einstein.br/sobre-einstein/qualidade-seguranca/acreditacoes-certificacoes-designacoes>
+11. <https://www.gov.br/inca/pt-br/assuntos/noticias/2022/gastos-do-sus-com-canceres-que-poderiam-ser-prevenidos-com-atividade-fisica-chegarao-a-r-2-5-bilhoes-em-2030>
+12. <https://www.inca.gov.br/noticias/gastos-do-sus-com-canceres-associados-ao-excesso-de-peso-somam-411-do-investimento-em>
+13. <https://www.medsimples.com.br/medtech/analise-preditiva/>
+14. <https://summitsaude.estadao.com.br/saude-humanizada/modelagem-preditiva-aumenta-eficiencia-de-sistemas-de-saude/>
+15. <https://santacasape.com.br/site/2020/06/19/como-funciona-a-central-de-regulacao-de-ofertas-de-servicos-de-saude-cross/>
