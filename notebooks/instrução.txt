@@ -1,0 +1,1 @@
+Colocar o Jupyter Notebook do Colab aqui. Remover este arquivo após isso.
