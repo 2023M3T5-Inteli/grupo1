@@ -4,9 +4,9 @@
 <a href= "https://www.inteli.edu.br/"><img src="https://www.inteli.edu.br/wp-content/uploads/2021/08/20172028/marca_1-2.png" alt="Inteli - Instituto de Tecnologia e Liderança" border="0"></a>
 </p>
 
-# Nome do projeto
+# NisAI
 
-## Nome do grupo
+## Genesis
 
 ## Integrantes: 
 - <a href="https://www.linkedin.com/in/arthur-nisa-de-paula-932746252/">Arthur Nisa de Paula Souza</a>
@@ -15,20 +15,29 @@
 - <a href="https://www.linkedin.com/in/guilherme-novaes-lima/">Guilherme Novaes Lima</a> 
 - <a href="">Henrique Rodrigues de Godoy</a>
 - <a href="">Lucas Oliveira de Medeiros Galvão</a> 
-- <a href="">Raab Iane Assunção Silva</a>
+- <a href="https://www.linkedin.com/in/raab-iane">Raab Iane Assunção Silva</a>
 
 ## 📝 Descrição
 
-Curta descrição sobre o que o seu projeto faz (problema a ser resolvido e solução proposta).
+Modelo preditivo de inteligência artificial que auxilia na identificação do melhor tratamento personalizado para o câncer de mama, seja ele adjuvante ou neoadjuvante.
 
 ## 📁 Estrutura de pastas
 
+|--> data<br>
+  &emsp;| --> BDIPMamaV11-INTELIDemograficosTt_DATA_LABELS_2023-01-24_1922 - BDIPMamaV11-INTELIDemograficosTt_DATA_LABELS_2023-01-24_1922genesis.csv<br>
+  &emsp;| --> BDIPMamaV11-INTELIHistopatologia_DATA_LABELS_2023-01-24_1924.csv<br>
+  &emsp;| --> BDIPMamaV11-INTELIPesoEAltura_DATA_LABELS_2023-01-24_1926.csv<br>
+  &emsp;| --> BDIPMamaV11-INTELIRegistroDeTumo_DATA_LABELS_2023-01-24_1924.csv<br>
 |--> documentos<br>
-  &emsp;| --> outros <br>
-  &emsp;| T5_G1_(VERSÃO)_Predictive_Model_Document.pdf<br>
-  &emsp;| T5_G1_(VERSÃO)_Predictive_Model_Document.docx<br>
+  &emsp;| --> outros<br>
+    &emsp;| --> apresentações<br>
+  &emsp;| T5_G1_V5_1_Predictive_Model_Document.pdf<br>
+  &emsp;| T5_G1_V5_1_Predictive_Model_Document.docx<br>
 |--> notebooks<br>
-  &emsp;|--> T5_G1_V(VERSÃO)_Predictive_Model_Development.ipynb<br>
+  &emsp;|--> Candidate_Model_Genesis.ipynb<br>
+  &emsp;|--> FrontGenesis.ipynb<br>
+  &emsp;|--> T5_G1_VNightly_Predictive_Model_Development.ipynb<br>
+  &emsp;|--> gbc_pipeline.pkl<br>
 | readme.md<br>
 | license.txt
 
@@ -49,18 +58,35 @@ Para replicação (reexecução dos códigos), o botão `Open in Colab` disponí
 
 ## 🗃 Histórico de lançamentos
 
-* 0.2.1 - 25/01/2022
-    * Atualização de documentos (código do módulo permanece inalterado).
-* 0.2.0 - 15/01/2022
-    * Remove `setDefaultXYZ()`
-    * Adiciona `init()`
-* 0.1.1 - 11/01/2022
-    * Crash quando chama `baz()`
-* 0.1.0 - 10/01/2022
-    * O primeiro lançamento adequado
-    * Renomeia `foo()` para `bar()`
-* 0.0.1 - 01/01/2022
-    * Trabalho em andamento
+* 0.4.2 - 05/04/2023
+    * Modelo final.
+    * Preenchimento da Seção 4.5 e Seção 5.
+* 0.4.1 - 03/04/2023
+    * Documento do projeto: Preenchimento da Seção 4.4.
+    * Modelos e suas métricas.
+    * Hiperparâmetros.
+* 0.3.2 - 29/03/2023
+    * Primeiro modelo candidato.
+    * Escolha das features.
+    * Escolha do tipo de sistema de recomendação.
+* 0.3.1 - 09/03/2023
+    * Documento do projeto: Preenchimento da Seção 3 e Seção 4.3.
+    * Proposta de features com a explicação completa da linha de raciocínio.
+    * Métricas relacionadas ao modelo (conjunto de teste).
+* 0.2.3 - 01/03/2023
+    * Exploração de dados com visualização.
+    * Identificação das colunas numéricas e categóricas.
+* 0.2.2 - 23/02/2023
+    * Documentação: Preenchimento da Seção 4.2.
+    * Estatística descritiva das colunas.
+* 0.2.1 - 20/02/2023
+    * Tratamento de missing, identificação de outliers e correção.
+    * Levantamento de hipóteses.
+* 0.1.2 - 09/02/2023
+    * Entendimento da Experiência do Usuário (DOCX) Inclusão no documento: Personas (seção 4.1.6) e Mapas de Jornadas do Usuário (seção 4.1.7)
+* 0.1.1 - 07/02/2023
+    * Política de privacidade LGPD
+    * Entendimento do negócio (DOCX): Documento do projeto: Preenchimento da Seção 1, Seção 2 e Seção 4.1.
 
 ## 📋 Licença/License
 
